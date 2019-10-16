@@ -1,0 +1,22 @@
+h1 {
+  background-image: url(https://thumbs.dreamstime.com/z/dog-biscuits-background-32948483.jpg);
+  border: 2px solid teal;
+  font-family: 'Rock Salt', cursive;
+  font-size: 100px;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Parisienne', cursive;
+  font-size: 50px;
+  text-align: center;
+  background-color: pink;
+}
+
+body {
+  background-image: url(https://previews.123rf.com/images/blacknote/blacknote1207/blacknote120700005/14285318-color-full-bone-shaped-dog-treats-isolated-of-backgrounds.jpg);
+  }
+
+ul {
+  background-color: pink;
+}
